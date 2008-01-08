@@ -1,0 +1,19 @@
+--- #YAML:1.0
+name:                FProt-Client
+version:             0.08
+abstract:            Client interface to the fpscand(1) virus scanning daemon
+license:             perl
+author:              
+    - Ævar Arnfjörð Bjarmason <avar@cpan.org>
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+    Cwd:                           0
+    File::Spec::Functions:         0
+    File::stat:                    0
+    File::Temp:                    0
+    IO::Socket::INET:              0
+    Test::More:                    0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
