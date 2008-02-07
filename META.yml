@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                FProt-Client
-version:             0.08
+version:             0.09
 abstract:            Client interface to the fpscand(1) virus scanning daemon
 license:             perl
 author:              
